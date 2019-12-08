@@ -9,7 +9,7 @@
 
     <artifactId>project</artifactId>
     <packaging>war</packaging>
-    <name>Project</name>
+    <name>Balaji-git-Project</name>
  <dependencies>
         <!-- runtime dependency -->
         <dependency>
