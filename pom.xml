@@ -17,6 +17,11 @@
 
     
     <distributionManagement>
+        <repository>
+         <id>internal.repo</id>
+         <name>Internal repo</name>
+         <url>http://localhost:8081/repository/maven-releases/</url>
+       </repository>
     <snapshotRepository>
       <id>nexus-snapshots</id>
       <url>http://localhost:8081/repository/maven-releases/</url>
