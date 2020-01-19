@@ -15,13 +15,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-      <servers>
-    <server>
-      <id>nexus-snapshots</id>
-      <username>admin</username>
-      <password>admin</password>
-    </server>
-  </servers>
     
     <distributionManagement>
     <snapshotRepository>
